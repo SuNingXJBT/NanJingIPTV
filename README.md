@@ -36,7 +36,7 @@
      直播带节目单、 https://github.com/cjh19831115/iptv/blob/main/iptv_raw.m3u
      回放：https://github.com/cjh19831115/iptv/blob/main/iptv_re.m3u
 
-我综合了以上来源，整合成[我的iptv无id列表带回放参数.m3u]([https://github.com/SuNingXJBT/NanJingIPTV/blob/main/%E6%88%91%E7%9A%84iptv%E6%97%A0id%E5%88%97%E8%A1%A8%E5%B8%A6%E5%9B%9E%E6%94%BE%E5%8F%82%E6%95%B0.m3u](https://github.com/SuNingXJBT/NanJingIPTV/blob/main/%E5%8D%97%E4%BA%AC%E7%94%B5%E4%BF%A1iptv%E7%BB%84%E6%92%AD%E5%B8%A6%E5%9B%9E%E6%94%BE%E5%8F%82%E6%95%B0.m3u))
+我综合了以上来源，整合成[南京电信iptv组播带回放参数.m3u](https://github.com/SuNingXJBT/NanJingIPTV/blob/main/%E5%8D%97%E4%BA%AC%E7%94%B5%E4%BF%A1iptv%E7%BB%84%E6%92%AD%E5%B8%A6%E5%9B%9E%E6%94%BE%E5%8F%82%E6%95%B0.m3u)
 
 5、播放直播
 
